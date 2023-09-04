@@ -1,0 +1,1 @@
+A basic recipe website to demonstrate basic HTML foundations learned in The Odin Project. 
